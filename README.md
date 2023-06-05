@@ -1,0 +1,1 @@
+# php-exercice-generateur-excuses
